@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ikea.BLL",
-    "\\ikea.BLL\\services"
+    "\\ikea.BLL\\services",
+    "\\ikea.DAL",
+    "\\ikea.DAL\\presistance",
+    "\\ikea.DAL\\presistance\\UnitOfWork",
+    "\\ikea.PL\\Views"
   ],
-  "SelectedNode": "\\ikea.BLL\\services\\DepartmentServices.cs",
   "PreviewInSolutionExplorer": false
 }
