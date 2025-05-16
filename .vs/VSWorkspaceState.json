@@ -1,11 +1,12 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ikea.BLL\\services",
     "\\ikea.DAL",
+    "\\ikea.DAL\\modelss",
+    "\\ikea.DAL\\modelss\\Identity",
     "\\ikea.DAL\\presistance",
-    "\\ikea.DAL\\presistance\\UnitOfWork",
-    "\\ikea.PL\\Views"
+    "\\ikea.DAL\\presistance\\UnitOfWork"
   ],
+  "SelectedNode": "\\ikea.DAL\\modelss\\Identity\\ApplicationUser.cs",
   "PreviewInSolutionExplorer": false
 }
