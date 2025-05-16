@@ -1,0 +1,16 @@
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\bin\Debug\net8.0\ikea.BLL.deps.json
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\bin\Debug\net8.0\ikea.BLL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\bin\Debug\net8.0\ikea.BLL.pdb
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\bin\Debug\net8.0\ikea.DAL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\bin\Debug\net8.0\ikea.DAL.pdb
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.csproj.AssemblyReference.cache
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.GeneratedMSBuildEditorConfig.editorconfig
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.AssemblyInfoInputs.cache
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.AssemblyInfo.cs
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.csproj.CoreCompileInputs.cache
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.csproj.Up2Date
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\refint\ikea.BLL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.pdb
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ref\ikea.BLL.dll
+F:\Rout\.Net\05 MVC\Session 03\Assignment\ikea\ikea.BLL\obj\Debug\net8.0\ikea.BLL.sourcelink.json
